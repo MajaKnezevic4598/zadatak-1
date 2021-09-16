@@ -49,6 +49,10 @@ width: 30%;
 -moz-transform: translate(-50%, -50%);
 -o-transform: translate(-50%, -50%);
  border-radius: 15px;
+ box-shadow:10px 25px 10px hsla(228, 23%, 22%, 0.2),
+ 10px 25px 10px hsla(228, 23%, 22%, 0.2)        , 
+ 20px 50px 40px hsla(228, 23%, 22%, 0.2)       , 
+ 20px 70px 70px hsla(228, 23%, 22%, 0.2)  ;
 }
 
 
